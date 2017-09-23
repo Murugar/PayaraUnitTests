@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.iqmsoft.payara.tests.HelloWorldTest" duration-ms="2585" started-at="2017-09-23T07:10:24Z" finished-at="2017-09-23T07:10:27Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="2585" started-at="2017-09-23T07:10:24Z" finished-at="2017-09-23T07:10:27Z">
+      <class name="com.iqmsoft.payara.tests.HelloWorldTest">
+        <test-method status="PASS" signature="arquillianBeforeSuite()[pri:0, instance:com.iqmsoft.payara.tests.HelloWorldTest@6615435c]" name="arquillianBeforeSuite" is-config="true" duration-ms="1526" started-at="2017-09-23T12:40:23Z" finished-at="2017-09-23T12:40:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arquillianBeforeSuite -->
+        <test-method status="PASS" signature="arquillianBeforeClass()[pri:0, instance:com.iqmsoft.payara.tests.HelloWorldTest@6615435c]" name="arquillianBeforeClass" is-config="true" duration-ms="2220" started-at="2017-09-23T12:40:24Z" finished-at="2017-09-23T12:40:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arquillianBeforeClass -->
+        <test-method status="PASS" signature="arquillianBeforeTest(java.lang.reflect.Method)[pri:0, instance:com.iqmsoft.payara.tests.HelloWorldTest@6615435c]" name="arquillianBeforeTest" is-config="true" duration-ms="3" started-at="2017-09-23T12:40:26Z" finished-at="2017-09-23T12:40:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.iqmsoft.payara.tests.HelloWorldTest.nomeTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arquillianBeforeTest -->
+        <test-method status="PASS" signature="nomeTest()[pri:0, instance:com.iqmsoft.payara.tests.HelloWorldTest@6615435c]" name="nomeTest" duration-ms="175" started-at="2017-09-23T12:40:26Z" finished-at="2017-09-23T12:40:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nomeTest -->
+        <test-method status="PASS" signature="arquillianAfterTest(java.lang.reflect.Method)[pri:0, instance:com.iqmsoft.payara.tests.HelloWorldTest@6615435c]" name="arquillianAfterTest" is-config="true" duration-ms="1" started-at="2017-09-23T12:40:27Z" finished-at="2017-09-23T12:40:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.iqmsoft.payara.tests.HelloWorldTest.nomeTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arquillianAfterTest -->
+        <test-method status="PASS" signature="arquillianBeforeTest(java.lang.reflect.Method)[pri:0, instance:com.iqmsoft.payara.tests.HelloWorldTest@6615435c]" name="arquillianBeforeTest" is-config="true" duration-ms="0" started-at="2017-09-23T12:40:27Z" finished-at="2017-09-23T12:40:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.iqmsoft.payara.tests.HelloWorldTest.sayHelloTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arquillianBeforeTest -->
+        <test-method status="PASS" signature="sayHelloTest()[pri:0, instance:com.iqmsoft.payara.tests.HelloWorldTest@6615435c]" name="sayHelloTest" duration-ms="21" started-at="2017-09-23T12:40:27Z" finished-at="2017-09-23T12:40:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sayHelloTest -->
+        <test-method status="PASS" signature="arquillianAfterTest(java.lang.reflect.Method)[pri:0, instance:com.iqmsoft.payara.tests.HelloWorldTest@6615435c]" name="arquillianAfterTest" is-config="true" duration-ms="0" started-at="2017-09-23T12:40:27Z" finished-at="2017-09-23T12:40:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.iqmsoft.payara.tests.HelloWorldTest.sayHelloTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arquillianAfterTest -->
+        <test-method status="PASS" signature="arquillianAfterClass()[pri:0, instance:com.iqmsoft.payara.tests.HelloWorldTest@6615435c]" name="arquillianAfterClass" is-config="true" duration-ms="161" started-at="2017-09-23T12:40:27Z" finished-at="2017-09-23T12:40:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arquillianAfterClass -->
+        <test-method status="PASS" signature="arquillianAfterSuite()[pri:0, instance:com.iqmsoft.payara.tests.HelloWorldTest@6615435c]" name="arquillianAfterSuite" is-config="true" duration-ms="41" started-at="2017-09-23T12:40:27Z" finished-at="2017-09-23T12:40:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arquillianAfterSuite -->
+      </class> <!-- com.iqmsoft.payara.tests.HelloWorldTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.iqmsoft.payara.tests.HelloWorldTest -->
+</testng-results>
